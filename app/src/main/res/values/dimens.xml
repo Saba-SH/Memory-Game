@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_offset">16dp</dimen>
+    <dimen name="button_offset">16dp</dimen>
+    <dimen name="card_offset">16dp</dimen>
+    <dimen name="card_width">150dp</dimen>
+</resources>
